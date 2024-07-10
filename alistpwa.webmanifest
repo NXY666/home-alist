@@ -1,4 +1,5 @@
 {
+  "display": "standalone",
   "name": "蛇鼠🐹一窝",
   "short_name": "蛇鼠一窝",
   "description": "非常好Alist，爱来自蛇鼠一窝。",
@@ -9,7 +10,5 @@
       "type": "image/png"
     }
   ],
-  "start_url": ".",
-  "display": "fullscreen",
   "theme_color": "#006ADC"
 }
