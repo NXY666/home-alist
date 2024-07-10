@@ -3,6 +3,8 @@
   "name": "蛇鼠🐹一窝",
   "short_name": "蛇鼠一窝",
   "description": "非常好Alist，爱来自蛇鼠一窝。",
+  "start_url": "https://nxycraft.cn:5245/",
+  "scope": "https://nxycraft.cn:5245/",
   "icons": [
     {
       "src": "https://www.gstatic.com/android/keyboard/emojikitchen/20230821/u1fa75/u1fa75_u1f426.png",
