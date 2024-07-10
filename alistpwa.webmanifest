@@ -9,8 +9,7 @@
       "type": "image/png"
     }
   ],
-  "start_url": "/",
+  "start_url": ".",
   "display": "fullscreen",
-  "theme_color": "#006ADC",
-  "background_color": "#B12A34"
+  "theme_color": "#006ADC"
 }
